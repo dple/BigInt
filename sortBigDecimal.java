@@ -1,4 +1,4 @@
-// The following code sorts an array of big decimal in reverse order
+// The following code sorts an array of big decimal in descending order
 
 import java.math.BigDecimal;
 import java.util.*;
