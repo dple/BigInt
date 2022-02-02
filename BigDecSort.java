@@ -1,3 +1,5 @@
+// The following code sorts an array of big decimal in reverse order
+
 import java.math.BigDecimal;
 import java.util.*;
 class Solution{
